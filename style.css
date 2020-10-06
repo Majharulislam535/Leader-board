@@ -1,0 +1,74 @@
+ body{
+     background-color: #E5E5E5;
+ }
+ 
+ .ba-1{
+     background-color:#562EFF;
+ }
+ nav h5{
+     color: white;
+ }
+ nav a {
+     color: white;
+ }
+.cont{
+    background-color: white;
+    width: 870px;
+    margin: auto;
+    border-radius: 5px;
+}
+.image-1 img{
+    width: 56px;
+    height: 56px;
+}
+.color-1{
+    color:#562EFF ;
+    padding: 30px 20px;
+}
+.hasan-1{
+    margin-bottom: 30px;
+}
+.new-1{
+    width: 807px;
+    border: 1px solid #D1D1D1;
+}
+.image-2 img{
+    width: 117px;
+    height: 117px;
+}
+h6{
+    font-size: 20px;
+}
+span{
+    color: #562EFF;
+}
+.card-4{
+    width:252px ;
+    height:269px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-4 img{
+    width: 224px;
+    height: 104px;
+    
+}
+.kks{
+    margin-left:10px;
+    margin-top:5px ;
+}
+.color-2{
+    color:#ED6B4F;
+}
+.maha{
+    padding: 10px;
+}
+footer p{
+    text-align: center;
+}
+.ha{
+     float: left;
+}
+.checked{
+    color: orange;
+}
